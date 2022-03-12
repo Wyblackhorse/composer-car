@@ -1,0 +1,14 @@
+{
+    "name": "wangyi/test-composer",
+    "description": "This a demo for build composer packagist .",
+    "type": "libary",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangyi",
+            "email": "892368376@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
